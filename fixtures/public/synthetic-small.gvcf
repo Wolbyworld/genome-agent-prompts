@@ -1,0 +1,10 @@
+##fileformat=VCFv4.2
+##source=SYNTHETIC-public-fixture
+##reference=SYNTHETIC-GRCh38-subset
+##contig=<ID=1,length=200000>
+##FORMAT=<ID=GT,Number=1,Type=String,Description="SYNTHETIC genotype">
+##INFO=<ID=END,Number=1,Type=Integer,Description="SYNTHETIC reference block end">
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	SYNTHETIC_SAMPLE
+1	10000	rs0000001	A	G	50	PASS	.	GT	0/1
+1	10001	.	C	<NON_REF>	50	PASS	END=10050	GT	0/0
+1	10100	rs0000002	T	C	50	PASS	.	GT	1/1

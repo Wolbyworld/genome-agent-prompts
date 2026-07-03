@@ -1,0 +1,44 @@
+.DS_Store
+
+# Local configuration and caches.
+.env
+.env.*
+
+# Local private-content denylist (real names, sample IDs, biometrics, genotypes).
+# The tracked .example is a template; the real file must never be committed.
+.private-scan-patterns
+.venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+__pycache__/
+
+# Private or generated health/genome material.
+Genetic Data/
+data/
+reports/
+manifests/
+*.bam
+*.bai
+*.cram
+*.crai
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.vcf
+*.vcf.gz
+*.gvcf
+*.gvcf.gz
+*.bcf
+*.sqlite
+*.sqlite3
+*.db
+*.xlsx
+*.tsv.gz
+*.csv.gz
+
+# Public synthetic fixtures are intentionally tracked.
+!fixtures/
+!fixtures/public/
+!fixtures/public/**

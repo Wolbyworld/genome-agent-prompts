@@ -1,0 +1,27 @@
+- name: clinical-genetics
+  color: "8a2be2"
+  description: Clinical genetics, ACMG, ClinVar, inheritance, confirmation language
+- name: pgx
+  color: "1f77b4"
+  description: Pharmacogenomics, CPIC, DPWG, PharmCAT, CYP2D6, HLA
+- name: prs
+  color: "2ca02c"
+  description: Polygenic scores, standardization, ancestry, coverage
+- name: bioinformatics
+  color: "ff7f0e"
+  description: Build handling, gVCF, normalization, reproducibility
+- name: privacy
+  color: "d62728"
+  description: Private data, disclosure, consent, publication safety
+- name: docs
+  color: "7f7f7f"
+  description: Documentation changes
+- name: prompt-wording
+  color: "17becf"
+  description: Prompt phrasing and instruction design
+- name: needs-source
+  color: "bcbd22"
+  description: Needs guideline, paper, documentation, or reproducible evidence
+- name: accepted-change
+  color: "9467bd"
+  description: Accepted critique ready to implement

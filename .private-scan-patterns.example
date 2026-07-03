@@ -1,0 +1,25 @@
+# Local private-content denylist (EXAMPLE — copy to .private-scan-patterns).
+#
+# .private-scan-patterns is gitignored and MUST NOT be committed. Put the exact
+# private strings you never want to publish here, and `make verify` will fail if
+# any of them appear in tracked files. The public repo ships no real values;
+# generic structural detectors live in scripts/check_no_private_content.sh.
+#
+# One fixed string per line. Blank lines and '#' comments are ignored.
+# The lines below are placeholders — replace them with your own real values.
+
+# Your name as it might appear in paths, headers, or reports.
+YOUR_FULL_NAME_HERE
+
+# Sample or accession identifiers.
+YOUR_SAMPLE_ID_HERE
+
+# Specific genotypes you consider sensitive (e.g. an APOE call).
+YOUR_SENSITIVE_GENOTYPE_HERE
+
+# Biometrics that could tie a report back to you.
+YOUR_HEIGHT_HERE
+YOUR_WEIGHT_HERE
+
+# Local vault or report directory names unique to your setup.
+YOUR_VAULT_NAME_HERE
