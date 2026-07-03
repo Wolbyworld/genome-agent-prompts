@@ -2,6 +2,10 @@
 
 Reusable prompt templates and lightweight verification for local-first genome-agent workflows.
 
+> ⚠️ **Not medical advice. Educational and research use only, provided "as is" with no warranty and
+> no liability. Do not use to diagnose, treat, or make any health decision. Use entirely at your own
+> risk. By using this repository you accept the [full disclaimer and limitation of liability](DISCLAIMER.md).**
+
 This repository is educational and methodological. It is not diagnostic software, medical advice,
 or a substitute for clinical-grade testing, a qualified clinician, or a genetic counselor.
 
