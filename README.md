@@ -63,3 +63,8 @@ bioinformatics reproducibility, and privacy/safety.
   acting on it.
 - Do not send private variants, read data, or health reports to remote tools unless the data owner
   explicitly approves that exact transfer.
+
+## License
+
+Released under the [MIT License](LICENSE). The prompts and documentation are provided for
+educational and methodological use and carry no warranty.
