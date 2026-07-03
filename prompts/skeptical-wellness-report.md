@@ -46,3 +46,10 @@ claims are weak, non-actionable, or better answered by measured biomarkers.
 
 Review for evidence grading, non-credible claim handling, supplement overclaiming, and whether the
 prompt prevents weak associations from becoming advice.
+
+
+---
+
+**Disclaimer:** Educational and research use only — not medical advice, no warranty, no liability.
+See [DISCLAIMER.md](../DISCLAIMER.md). Confirm any finding with a clinical-grade test and a qualified
+professional before acting.

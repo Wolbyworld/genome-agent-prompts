@@ -47,3 +47,10 @@ Public reference panels often cannot resolve province-level or family-level ance
 
 Review for population-label assumptions, supervised-source definitions, small-component language,
 and whether the prompt avoids overstating geographic precision.
+
+
+---
+
+**Disclaimer:** Educational and research use only — not medical advice, no warranty, no liability.
+See [DISCLAIMER.md](../DISCLAIMER.md). Confirm any finding with a clinical-grade test and a qualified
+professional before acting.

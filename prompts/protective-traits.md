@@ -44,3 +44,10 @@ population-specific. This prompt is for interest and evidence review, not medica
 
 Review for marker validity, effect-allele correctness, indel handling, overstatement of protection,
 and whether weak claims are labeled clearly.
+
+
+---
+
+**Disclaimer:** Educational and research use only — not medical advice, no warranty, no liability.
+See [DISCLAIMER.md](../DISCLAIMER.md). Confirm any finding with a clinical-grade test and a qualified
+professional before acting.

@@ -51,3 +51,10 @@ and current health status usually dominate individual interpretation.
 
 Review for score validity, weak athlete-trait claims, reference-panel choice, and whether the prompt
 keeps fitness genetics in a non-medical curiosity frame.
+
+
+---
+
+**Disclaimer:** Educational and research use only — not medical advice, no warranty, no liability.
+See [DISCLAIMER.md](../DISCLAIMER.md). Confirm any finding with a clinical-grade test and a qualified
+professional before acting.

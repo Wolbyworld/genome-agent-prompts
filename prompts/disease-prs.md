@@ -52,3 +52,10 @@ used alone for medical decisions.
 
 Review for score selection, standardization method, ancestry caveats, coverage reporting, allele
 harmonization, and plain-language bands that do not overstate individual predictive power.
+
+
+---
+
+**Disclaimer:** Educational and research use only — not medical advice, no warranty, no liability.
+See [DISCLAIMER.md](../DISCLAIMER.md). Confirm any finding with a clinical-grade test and a qualified
+professional before acting.

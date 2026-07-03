@@ -51,3 +51,10 @@ clinical-grade test and review by qualified genetics professionals before action
 Review for ACMG list currency, inheritance framing, VUS overclaiming, ClinVar review-status
 thresholds, and whether recessive carrier findings are clearly separated from personal-risk
 findings.
+
+
+---
+
+**Disclaimer:** Educational and research use only — not medical advice, no warranty, no liability.
+See [DISCLAIMER.md](../DISCLAIMER.md). Confirm any finding with a clinical-grade test and a qualified
+professional before acting.

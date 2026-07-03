@@ -52,3 +52,10 @@ reference build, and structural-variant handling.
 
 Review for CPIC/DPWG accuracy, PharmCAT compatibility, CYP2D6 structural-variant assumptions, HLA
 caller suitability, and whether the prompt avoids direct prescribing advice.
+
+
+---
+
+**Disclaimer:** Educational and research use only — not medical advice, no warranty, no liability.
+See [DISCLAIMER.md](../DISCLAIMER.md). Confirm any finding with a clinical-grade test and a qualified
+professional before acting.

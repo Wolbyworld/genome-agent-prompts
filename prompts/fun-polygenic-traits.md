@@ -45,3 +45,10 @@ environment usually explain more than these scores for an individual.
 
 Review for trait validity, avoidance of behavioral overclaiming, use of appropriate public scores,
 and whether optional phenotype comparison is framed carefully.
+
+
+---
+
+**Disclaimer:** Educational and research use only — not medical advice, no warranty, no liability.
+See [DISCLAIMER.md](../DISCLAIMER.md). Confirm any finding with a clinical-grade test and a qualified
+professional before acting.

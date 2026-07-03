@@ -3,6 +3,10 @@
 This repository is optimized for expert critique of prompt methodology, not for collecting personal
 genetic results.
 
+This project is educational and research-only. It is not medical advice and carries no warranty or
+liability. By contributing you agree your contributions are offered on the same terms — see the
+[LICENSE](LICENSE) and [DISCLAIMER.md](DISCLAIMER.md).
+
 ## Review Standards
 
 When proposing a change, include:

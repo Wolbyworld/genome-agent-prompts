@@ -11,3 +11,10 @@ private environment. Do not paste private genome data or generated result files 
 - `fitness-prs.md`: fitness and performance-related PRS workflow.
 - `fine-ancestry.md`: fine ancestry and admixture workflow.
 - `skeptical-wellness-report.md`: wellness genetics report with evidence grading.
+
+
+---
+
+**Disclaimer:** Educational and research use only — not medical advice, no warranty, no liability.
+See [DISCLAIMER.md](../DISCLAIMER.md). Confirm any finding with a clinical-grade test and a qualified
+professional before acting.
